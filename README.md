@@ -1,6 +1,6 @@
 ## React native
 
-### To setup react native on your machine follow the instuctions - Uses [`here`](https://reactnative.dev/docs/environment-setup)
+### To setup react native on your machine follow the instuctions [`here`](https://reactnative.dev/docs/environment-setup)
 
 ## To run the project on IOS
 
